@@ -1,4 +1,4 @@
-# SW-MCU-STM32-24BYJ48-012
+# SW-MCU-STM32-ULN2003-012
 
 <img width="689" alt="24BYJ48" src="https://github.com/user-attachments/assets/97473404-b727-4162-8639-ff6708d380be">
 
